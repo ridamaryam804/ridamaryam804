@@ -170,44 +170,58 @@
 
 <h2 style="color: white; margin-bottom: 20px;">🚀 My Development Journey</h2>
 
-<div style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,255,255,0.3); margin: 15px 0;">
+<div style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 15px; margin: 15px 0; overflow-x: auto;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+<div style="display: flex; flex-wrap: nowrap; gap: 20px; padding: 10px; min-width: max-content;">
 
-<div style="text-align: center;">
-<div style="background: rgba(255,255,255,0.2); width: 70px; height: 70px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px; font-size: 30px;">
-📱
+<div style="background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #FF1493; box-shadow: 0 5px 15px rgba(255,107,139,0.3);">
+<div style="text-align: center; margin-bottom: 15px;">
+<div style="font-size: 40px; margin-bottom: 10px;">📱</div>
+<h4 style="color: white; margin: 10px 0; font-size: 18px;">Mobile Development</h4>
 </div>
-<h4 style="color: white; margin: 10px 0;">Mobile Development</h4>
-<p style="color: white; font-size: 14px; margin: 0; opacity: 0.9;">Flutter & Dart<br>Building Real Projects<br>Firebase Integration</p>
-</div>
-
-<div style="text-align: center;">
-<div style="background: rgba(255,255,255,0.2); width: 70px; height: 70px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px; font-size: 30px;">
-🌐
-</div>
-<h4 style="color: white; margin: 10px 0;">Web Development</h4>
-<p style="color: white; font-size: 14px; margin: 0; opacity: 0.9;">Frontend Focus<br>WordPress<br>Backend Planning</p>
+<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
+Flutter & Dart<br>
+Building Real Projects<br>
+Firebase Integration
+</p>
 </div>
 
-<div style="text-align: center;">
-<div style="background: rgba(255,255,255,0.2); width: 70px; height: 70px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px; font-size: 30px;">
-🎨
+<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #1E90FF; box-shadow: 0 5px 15px rgba(71,118,230,0.3);">
+<div style="text-align: center; margin-bottom: 15px;">
+<div style="font-size: 40px; margin-bottom: 10px;">🌐</div>
+<h4 style="color: white; margin: 10px 0; font-size: 18px;">Web Development</h4>
 </div>
-<h4 style="color: white; margin: 10px 0;">Design & Marketing</h4>
-<p style="color: white; font-size: 14px; margin: 0; opacity: 0.9;">Canva • Figma • Illustrator<br>UI/UX Principles<br>Digital Marketing</p>
+<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
+Frontend Focus<br>
+WordPress<br>
+Backend Planning
+</p>
 </div>
 
+<div style="background: linear-gradient(135deg, #00B09B 0%, #96C93D 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #32CD32; box-shadow: 0 5px 15px rgba(0,176,155,0.3);">
+<div style="text-align: center; margin-bottom: 15px;">
+<div style="font-size: 40px; margin-bottom: 10px;">🎨</div>
+<h4 style="color: white; margin: 10px 0; font-size: 18px;">Design & Marketing</h4>
+</div>
+<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
+Canva • Figma • Illustrator<br>
+UI/UX Principles<br>
+Digital Marketing
+</p>
 </div>
 
-<div style="margin-top: 25px; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 10px;">
-<h4 style="color: white; margin: 0 0 10px 0; text-align: center;">🚀 Current Focus & Next Steps</h4>
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-<span style="color: white; background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; font-size: 14px;">🎯 Complete Farmer App</span>
-<span style="color: white; background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; font-size: 14px;">📚 Master Backend Skills</span>
-<span style="color: white; background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; font-size: 14px;">🤝 Open Source Contributions</span>
-<span style="color: white; background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; font-size: 14px;">💡 Build Social Impact Tech</span>
+<div style="background: linear-gradient(135deg, #8A2387 0%, #F27121 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #FF8C00; box-shadow: 0 5px 15px rgba(138,35,135,0.3);">
+<div style="text-align: center; margin-bottom: 15px;">
+<div style="font-size: 40px; margin-bottom: 10px;">🤖</div>
+<h4 style="color: white; margin: 10px 0; font-size: 18px;">Data Science</h4>
 </div>
+<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
+ML Concepts<br>
+Real-world Applications<br>
+Learning Path
+</p>
+</div>
+
 </div>
 
 </div>
