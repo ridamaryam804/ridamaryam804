@@ -137,11 +137,11 @@
 <h3><span style="color:#ff1493">🌈</span> <span style="color:#1e90ff">Let's Connect & Create</span> <span style="color:#32cd32">🌈</span></h3>
 <p style="margin: 20px 0;">
   <a href="https://linkedin.com/in/your-username" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:khosa9720@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -170,63 +170,55 @@
 
 <h2 style="color: white; margin-bottom: 20px;">🚀 My Development Journey</h2>
 
-<div style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 15px; margin: 15px 0; overflow-x: auto;">
+<div style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 15px; margin: 15px 0;">
 
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; padding: 10px; min-width: max-content;">
-
-<div style="background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(255,107,139,0.3);">
-<div style="text-align: center;">
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="padding: 15px; text-align: center; vertical-align: top;">
+<div style="background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); padding: 25px; border-radius: 15px; height: 100%;">
 <div style="font-size: 40px; margin-bottom: 15px;">📱</div>
-<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Mobile Development</h4>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 20px;">Mobile Development</h4>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Flutter & Dart</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Building Real Projects</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Firebase Integration</p>
 </div>
-<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Flutter & Dart</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Building Real Projects</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Firebase Integration</p>
-</div>
-</div>
+</td>
 
-<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(71,118,230,0.3);">
-<div style="text-align: center;">
+<td style="padding: 15px; text-align: center; vertical-align: top;">
+<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); padding: 25px; border-radius: 15px; height: 100%;">
 <div style="font-size: 40px; margin-bottom: 15px;">🌐</div>
-<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Web Development</h4>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 20px;">Web Development</h4>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Frontend Focus</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">WordPress</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Backend Planning</p>
 </div>
-<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Frontend Focus</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">WordPress</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Backend Planning</p>
-</div>
-</div>
+</td>
 
-<div style="background: linear-gradient(135deg, #00B09B 0%, #96C93D 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,176,155,0.3);">
-<div style="text-align: center;">
+<td style="padding: 15px; text-align: center; vertical-align: top;">
+<div style="background: linear-gradient(135deg, #00B09B 0%, #96C93D 100%); padding: 25px; border-radius: 15px; height: 100%;">
 <div style="font-size: 40px; margin-bottom: 15px;">🎨</div>
-<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Design & Marketing</h4>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 20px;">Design & Marketing</h4>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Canva • Figma • Illustrator</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">UI/UX Principles</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Digital Marketing</p>
 </div>
-<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Canva • Figma • Illustrator</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">UI/UX Principles</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Digital Marketing</p>
-</div>
-</div>
+</td>
 
-<div style="background: linear-gradient(135deg, #8A2387 0%, #F27121 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(138,35,135,0.3);">
-<div style="text-align: center;">
+<td style="padding: 15px; text-align: center; vertical-align: top;">
+<div style="background: linear-gradient(135deg, #8A2387 0%, #F27121 100%); padding: 25px; border-radius: 15px; height: 100%;">
 <div style="font-size: 40px; margin-bottom: 15px;">🤖</div>
-<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Data Science</h4>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 20px;">Data Science</h4>
+<p style="color: white; font-size: 16px; margin: 10px 0;">ML Concepts</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Real-world Applications</p>
+<p style="color: white; font-size: 16px; margin: 10px 0;">Learning Path</p>
 </div>
-<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">ML Concepts</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Real-world Applications</p>
-<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Learning Path</p>
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
-</div>
-
-<p style="color: white; font-size: 18px; margin-top: 25px; font-style: italic;">
+<p style="color: white; font-size: 18px; margin-top: 20px; font-style: italic;">
 ✨ From Learning to Building • From Concepts to Creation ✨
 </p>
 
